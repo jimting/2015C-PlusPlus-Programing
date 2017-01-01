@@ -1,0 +1,33 @@
+﻿已經開始建置於 2016/5/12 下午 07:53:06。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\俊廷\Desktop\HW3\HW3\HW3.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\HW3.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt obj.cpp
+         obj.cpp
+     1>c:\users\俊廷\desktop\hw3\hw3\obj.cpp(158): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 請參閱 'kbhit' 的宣告
+     1>c:\users\俊廷\desktop\hw3\hw3\obj.cpp(160): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 請參閱 'getch' 的宣告
+     1>c:\users\俊廷\desktop\hw3\hw3\obj.cpp(228): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 請參閱 'kbhit' 的宣告
+     1>c:\users\俊廷\desktop\hw3\hw3\obj.cpp(230): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 請參閱 'getch' 的宣告
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\俊廷\Desktop\HW3\HW3\Debug\HW3.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\俊廷\Desktop\HW3\HW3\Debug\HW3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\俊廷\Desktop\HW3\HW3\Debug\HW3.lib" /MACHINE:X86 Debug\main.obj
+         Debug\obj.obj
+         Debug\point.obj
+         Debug\rec.obj
+         Debug\utilwin32.obj
+         LINK : 最後的累加連結找不到或未建置 C:\Users\俊廷\Desktop\HW3\HW3\Debug\HW3.exe，正在執行完整連結
+         HW3.vcxproj -> C:\Users\俊廷\Desktop\HW3\HW3\Debug\HW3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\俊廷\Desktop\HW3\HW3\Debug\HW3.exe;#1" /manifest Debug\HW3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\HW3.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\HW3.lastbuildstate"。
+     1>專案 "C:\Users\俊廷\Desktop\HW3\HW3\HW3.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.15

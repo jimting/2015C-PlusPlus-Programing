@@ -1,0 +1,23 @@
+﻿已經開始建置於 2016/4/14 下午 07:44:05。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\HW2_成績.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\HW2_成績.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\Debug\HW2_成績.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW2_成績.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\Debug\HW2_成績.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\Debug\HW2_成績.lib" /MACHINE:X86 Debug\Class.obj
+         Debug\Grade.obj
+         Debug\main.obj
+         Debug\Student.obj
+         LINK : 最後的累加連結找不到或未建置 C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\Debug\HW2_成績.exe，正在執行完整連結
+         HW2_成績.vcxproj -> C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\Debug\HW2_成績.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\Debug\HW2_成績.exe;#1" /manifest "Debug\HW2_成績.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\HW2_成績.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\HW2_成績.lastbuildstate"。
+     1>專案 "C:\Users\俊廷\Desktop\吸加加紅沃克趴吐\HW2_成績\HW2_成績.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.37
